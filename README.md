@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/advanced-rest-client/validatable-mixin.svg?branch=stage)](https://travis-ci.org/advanced-rest-client/validatable-mixin)
 
+## Deprecation notice
+
+This package is not maintained. Use `@anypont-web-components/validatable-mixin` instead.
+
 # ValidatableMixin
 
 A mixin to implement user input validation in a LitElement component.
